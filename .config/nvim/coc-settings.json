@@ -1,0 +1,5 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["rust", "elixir", "css", "markdown"],
+  "rust-analyzer.server.path": "~/.cargo/bin/rust-analyzer",
+  "rust-analyzer.checkOnSave.command": "clippy"
+}
