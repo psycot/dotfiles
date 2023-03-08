@@ -48,6 +48,9 @@ source $HOME/.config/nvim/coc.vim
 " leixima.vim settting
 source $HOME/.config/nvim/lexima.vim
 
+" vim-elixir.vim settting
+source $HOME/.config/nvim/vim-elixir.vim
+
 " syntax highlight + color scheme
 syntax on
 set background=dark
